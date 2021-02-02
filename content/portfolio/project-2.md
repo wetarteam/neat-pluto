@@ -1,11 +1,12 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+title: Artwork Design
+date: '2019-05-01T11:44'
+image: images/portfolio/item-2.png
+client: John Doe
+project_url: 'https://themefisher.com/'
+categories:
+  - branding
+description: This is meta description.
 draft: false
 ---
 
